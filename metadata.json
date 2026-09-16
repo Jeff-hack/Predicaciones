@@ -1,0 +1,6 @@
+{
+  "name": "Biblioteca de Predicaciones",
+  "description": "Colección canónica y personal de predicaciones en PDF, con visor de manuscritos, búsqueda por citas bíblicas, temas doctrinales y respaldo local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
